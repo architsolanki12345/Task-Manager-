@@ -1,0 +1,1 @@
+export const nextId = tasks => tasks.length? Math.max(...tasks.map(t=>t.id))+1 : 1
