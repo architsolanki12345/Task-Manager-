@@ -42,4 +42,4 @@ For GitHub Pages:
 For Vercel/Netlify, connect the repository and deploy.
 
 Live demo: [http://localhost:5173/]
-GitHub: [link]
+GitHub: [https://github.com/architsolanki12345]
